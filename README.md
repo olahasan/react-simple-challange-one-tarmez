@@ -1,6 +1,6 @@
 # react-simple-challange-one-tarmez
 
-This is a simple project i create it to practice how to send props,Children from component to other built with React Js"Hooks"
+This is a simple project i created it to practice how to send props,Children from component to other built with React Js"Hooks"
 
 ## Table of contents
 
